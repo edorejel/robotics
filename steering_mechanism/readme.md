@@ -13,5 +13,3 @@ Using light to steer a vehicle instead of a steering wheel, this is a mechanism 
 
 ![steering mechanism for vehicle](https://github.com/edorejel/robotics/blob/main/steering_mechanism/Screenshot%202024-11-17%20155127.png)
 
-
-![steering mechanism for vehicle](https://github.com/edorejel/robotics/blob/main/steering_mechanism/Screenshot%202024-11-17%20155127a.png)
