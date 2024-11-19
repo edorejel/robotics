@@ -11,5 +11,5 @@ Using light to steer a vehicle instead of a steering wheel, this is a mechanism 
 - It is safe to assume a normal steering wheel column mechanism is obsolete technology.
 
 
-![steering mechanism for vehicle](https://github.com/edorejel/robotics/blob/main/steering_mechanism/Screenshot%202024-11-17%20155127.png)
+![electricity as steering mechanism for vehicle](https://github.com/edorejel/robotics/blob/main/electricity_as_steering_mechanism/Screenshot%202024-11-17%20155127.png)
 
