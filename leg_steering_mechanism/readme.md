@@ -10,3 +10,8 @@ A robot that uses legs to steer. Similar to anchoring. Steering system created u
 # Different View of Lowered "Left Leg"
 
 ![left anchor turn](https://github.com/edorejel/robotics/blob/main/leg_steering_mechanism/Screenshot%202024-11-19%20172231.png)
+
+
+# Different View of Lowered "Left Leg"
+
+![lowered left leg for turning](https://github.com/edorejel/robotics/blob/main/leg_steering_mechanism/Screenshot%202024-11-19%20185136.png)
