@@ -7,4 +7,6 @@
 
 # Part 2 of the Flowchart
 
-![flowchart part 2]()
+![flowchart part 2](https://github.com/edorejel/robotics/blob/main/food_delivery_robot/flowchart/Screenshot%202024-11-19%20164443.png)
+
+
