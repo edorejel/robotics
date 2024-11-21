@@ -6,6 +6,8 @@ A robot that uses legs to steer. Similar to anchoring. Steering system created u
 
 # Left Leg Anchored Front View 
 
+As the left leg is lowered, the vehicle eventually tilts on its right side. As the left leg is anchored, and with the tires moving forward, the vehicle changes direction. The vehicle could also turn in reverse.
+
 ![left leg anchored front view](https://github.com/edorejel/robotics/blob/main/leg_steering_mechanism/Screenshot%202024-11-20-182527_0.png)
 
 
