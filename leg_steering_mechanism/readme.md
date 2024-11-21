@@ -10,6 +10,13 @@ As the left leg is lowered, the vehicle eventually tilts on its right side. As t
 
 ![left leg anchored front view](https://github.com/edorejel/robotics/blob/main/leg_steering_mechanism/Screenshot%202024-11-20-182527_0.png)
 
+# Different View of Left Leg Down
+
+![different view of left leg down facing left](https://github.com/edorejel/robotics/blob/main/leg_steering_mechanism/Screenshot%202024-11-20%20182616_1.png)
+
+![different view of left leg down facing right](https://github.com/edorejel/robotics/blob/main/leg_steering_mechanism/Screenshot%202024-11-20%20182704_2.png)
+
+
 
 # Making a Left Turn - Lower Left Leg to Anchor
 
