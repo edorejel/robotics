@@ -7,5 +7,6 @@ Hints:
 (3) Use the weather, so your app is really "fancy."
 (4) Think about tsunami's, heavy rains, fog, and floods, what would that do? However, we're on planet Earth, so always keep that in mind. 
 (5) Think about global warming, how would that affect your self-drive AI?
+(6) You are free to assume your temperature checker can check temperature at various heights, angles, and distances.
 
 */
