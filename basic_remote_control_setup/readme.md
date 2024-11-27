@@ -5,3 +5,10 @@
 - Link to code here: [remote control setup code](https://github.com/edorejel/robotics/blob/main/basic_remote_control_setup/remote_control_setup_code.cpp)
 
   ![basic remote control setup](https://github.com/edorejel/robotics/blob/main/basic_remote_control_setup/Screenshot%202024-11-27%20003256.png)
+
+# Detailed Basic Remote Control Setup
+
+- A more detailed setup diagram is provided. These details would be provided using algorithms and code, for system and resource accuracy.
+
+- ![detailed basic remote control setup](https://github.com/edorejel/robotics/blob/main/basic_remote_control_setup/Screenshot%202024-11-27%20114631.png)
+
