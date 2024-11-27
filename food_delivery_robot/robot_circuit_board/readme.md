@@ -13,5 +13,7 @@
 - All code compiles without errors and both motors spin with this design.
 - All sensors appear to be in the right slots. Code is required to connect them with the motors.
 - No optimized code is used and optimizations are not considered.
+- Tilt sensor is now connected to correct slot on Arduino. Tilt sensor controls the Servo motor to initiate the anti-flip mechanism.
+- Servo motor also controlled via remote button, to open lid of the robot's compartment.
 
-  ![robot circuit board](https://github.com/edorejel/robotics/blob/main/food_delivery_robot/robot_circuit_board/Screenshot%202024-11-26%20142114.png)
+  ![robot circuit board](https://github.com/edorejel/robotics/blob/main/food_delivery_robot/robot_circuit_board/Screenshot%202024-11-26%20163036.png)
