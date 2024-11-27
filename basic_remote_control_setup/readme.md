@@ -12,5 +12,5 @@
 - A central assumption is that the current, as shown, is enough to power the system shown regardless of how the wiring is setup. Thus, no other optimizations need to be taken into account.
   
 
-- ![detailed basic remote control setup](https://github.com/edorejel/robotics/blob/main/basic_remote_control_setup/Screenshot%202024-11-27%20120835.png)
+- ![detailed basic remote control setup](https://github.com/edorejel/robotics/blob/main/basic_remote_control_setup/Screenshot%202024-11-27%20131017.png)
 
