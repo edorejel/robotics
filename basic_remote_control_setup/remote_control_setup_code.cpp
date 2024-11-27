@@ -17,7 +17,7 @@ int LEDpin = 8;
 
 void setup()
 {
-  
+Serial.println("Setup Begin");  
 Serial.begin(9600);
 pinMode(IRpin,INPUT);
 IR.enableIRIn();
@@ -27,23 +27,23 @@ pinMode(0, OUTPUT);
 
 void loop(){
 
-
-while(IR.decode())
-{
+Serial.println("Begin Main Loop");
+while(IR.decode()){
 //Serial.println(IR.decodedIRData.decodedRawData,HEX);
 if(IR.decodedIRData.decodedRawData==0xFF00BF00)
 {
 Serial.println("Power On");
 digitalWrite(8, HIGH);
+Serial.println("LED On");
 delay(t/10);
-  Serial.println("Power Off");
-digitalWrite(8, LOW);  
+Serial.println("Power Off");
+digitalWrite(8, LOW);
+Serial.println("LED Off");  
 }
   
   
   
-if(IR.decodedIRData.decodedRawData==0xFE01BF00)
-{
+if(IR.decodedIRData.decodedRawData==0xFE01BF00){
 Serial.println("Vol+");
   digitalWrite(8, HIGH);
 delay(t/10);
