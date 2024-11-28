@@ -1,7 +1,7 @@
 # Basic Arduino Servo Motor Tilt Sensor Connection
 
 - The image below features a tilt sensor connected to a Servo motor.
-- The remote control and LED have limited connection. Both are connected to the Servo Motor when Button 5 is pressed.
+- The remote control and LED have limited connection. Both are connected to the Servo Motor.The LED lights up when Button 5 is pressed.
 - Button 5 on the remote operates the top lid of the robot.
 - The Servo motor opens it.
 - The tilt sensor also operates the Servo motor. It servs as an anti-flip mechanism for when the robot flips over, it can pick itself back up.
