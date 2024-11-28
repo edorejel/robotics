@@ -1,5 +1,7 @@
 # Basic Arduino Servo Motor Tilt Sensor Connection
 
+- For the system shown below, Computer Science is used to accurately keep track of the current flow, including the ground connections, and to optimize the system, if possible.
+- There's a few data structures in use in the system show. A more detailed explanation will be provided later. 
 - The image below features a tilt sensor connected to a Servo motor.
 - The remote control and LED have limited connection. Both are connected to the Servo Motor.The LED lights up when Button 5 is pressed.
 - Button 5 on the remote operates the top lid of the robot.
