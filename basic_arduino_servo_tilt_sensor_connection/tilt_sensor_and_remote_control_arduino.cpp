@@ -34,7 +34,7 @@ pinMode(tiltPin, INPUT);
 //code for remote  
 pinMode(IRpin,INPUT);
 IR.enableIRIn();
-pinMode(0, OUTPUT);
+
 //end code for remote
 }
 
