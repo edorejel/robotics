@@ -1,11 +1,18 @@
 # Food Delivery Robot
 
 
-A prototype food delivery robot to deliver food to an animal. Done using Tinkercad.
+- A prototype food delivery robot to deliver food to an animal. Done using Tinkercad.
+
 
 # Sensor Compartment
 
 ![food delivery robot](https://github.com/edorejel/robotics/blob/main/food_delivery_robot/Screenshot%202024-11-18%20191932.png)
+
+# Different View of Food Robot
+
+
+![different view](https://github.com/edorejel/robotics/blob/main/food_delivery_robot/Screenshot%202024-11-30%20182334.png)
+
 
 
 # Computer Compartment
